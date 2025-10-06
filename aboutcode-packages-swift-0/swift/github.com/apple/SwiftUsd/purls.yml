@@ -1,0 +1,5 @@
+- pkg:swift/github.com/apple/SwiftUsd@4.1.1
+- pkg:swift/github.com/apple/SwiftUsd@5.0.0
+- pkg:swift/github.com/apple/SwiftUsd@5.0.1
+- pkg:swift/github.com/apple/SwiftUsd@5.0.2
+- pkg:swift/github.com/apple/SwiftUsd@5.1.0

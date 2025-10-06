@@ -1,0 +1,3 @@
+- pkg:swift/github.com/apple/swift-mmio@0.0.1
+- pkg:swift/github.com/apple/swift-mmio@0.0.2
+- pkg:swift/github.com/apple/swift-mmio@0.1.0

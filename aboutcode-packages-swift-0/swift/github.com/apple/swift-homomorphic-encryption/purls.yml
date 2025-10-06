@@ -1,0 +1,10 @@
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.0
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.0-alpha.1
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.0-alpha.2
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.0-alpha.3
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.0-beta.1
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.1
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.2
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.3
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@1.0.4
+- pkg:swift/github.com/apple/swift-homomorphic-encryption@v1.0.0-rc.1
