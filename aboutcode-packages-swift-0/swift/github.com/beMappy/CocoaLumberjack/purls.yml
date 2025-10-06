@@ -1,0 +1,11 @@
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4%5E%7B%7D
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-SPM
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-SPM%5E%7B%7D
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14%5E%7B%7D
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14-2
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14-2%5E%7B%7D
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14-3
+- pkg:swift/github.com/beMappy/CocoaLumberjack@3.7.4-xc14-3%5E%7B%7D
+- pkg:swift/github.com/beMappy/CocoaLumberjack@v3.7.5
