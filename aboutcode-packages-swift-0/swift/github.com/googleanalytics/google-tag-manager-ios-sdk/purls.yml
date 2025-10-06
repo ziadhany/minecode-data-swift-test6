@@ -1,0 +1,10 @@
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.0
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.1
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.2
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.3
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.4
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.5
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@7.4.6
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@8.0.0
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@8.1.0
+- pkg:swift/github.com/googleanalytics/google-tag-manager-ios-sdk@9.0.0
