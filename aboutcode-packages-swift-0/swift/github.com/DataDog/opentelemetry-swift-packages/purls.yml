@@ -1,0 +1,4 @@
+- pkg:swift/github.com/DataDog/opentelemetry-swift-packages@1.13.0
+- pkg:swift/github.com/DataDog/opentelemetry-swift-packages@1.13.1
+- pkg:swift/github.com/DataDog/opentelemetry-swift-packages@1.6.0
+- pkg:swift/github.com/DataDog/opentelemetry-swift-packages@1.6.0%5E%7B%7D

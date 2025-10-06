@@ -1,0 +1,16 @@
+- pkg:swift/github.com/delba/JASON@3.1.1
+- pkg:swift/github.com/delba/JASON@v0.1
+- pkg:swift/github.com/delba/JASON@v0.1%5E%7B%7D
+- pkg:swift/github.com/delba/JASON@v0.2
+- pkg:swift/github.com/delba/JASON@v1.0
+- pkg:swift/github.com/delba/JASON@v1.0%5E%7B%7D
+- pkg:swift/github.com/delba/JASON@v1.1
+- pkg:swift/github.com/delba/JASON@v1.2
+- pkg:swift/github.com/delba/JASON@v2.0
+- pkg:swift/github.com/delba/JASON@v2.0.1
+- pkg:swift/github.com/delba/JASON@v2.1
+- pkg:swift/github.com/delba/JASON@v2.1.1
+- pkg:swift/github.com/delba/JASON@v2.2
+- pkg:swift/github.com/delba/JASON@v2.2.1
+- pkg:swift/github.com/delba/JASON@v3.0
+- pkg:swift/github.com/delba/JASON@v3.1
