@@ -1,0 +1,13 @@
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.0
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.1
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.1%5E%7B%7D
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.2
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.3
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.0.4
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.1.0
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@3.2.0
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@4.0.0
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@4.0.1
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@5.0.0
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@5.0.1
+- pkg:swift/github.com/adobe/aepsdk-analytics-ios@5.0.2

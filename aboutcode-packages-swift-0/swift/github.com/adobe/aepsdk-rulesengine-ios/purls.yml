@@ -1,0 +1,11 @@
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.0.0
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.0.0-beta.1
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.0.0-beta.2
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.0.1
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.1.0
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.2.0
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.2.1
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.2.2
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@1.2.3
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@4.0.0
+- pkg:swift/github.com/adobe/aepsdk-rulesengine-ios@5.0.0

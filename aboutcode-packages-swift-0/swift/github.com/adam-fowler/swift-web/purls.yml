@@ -1,0 +1,4 @@
+- pkg:swift/github.com/adam-fowler/swift-web@0.0.1
+- pkg:swift/github.com/adam-fowler/swift-web@0.0.2
+- pkg:swift/github.com/adam-fowler/swift-web@0.1.0
+- pkg:swift/github.com/adam-fowler/swift-web@1.0.0

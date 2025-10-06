@@ -1,0 +1,6 @@
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@0.0.1
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@0.1.0
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@0.1.1
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@0.2.0
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@0.3.0
+- pkg:swift/github.com/adam-fowler/s3-filesystem-kit@1.0.0
