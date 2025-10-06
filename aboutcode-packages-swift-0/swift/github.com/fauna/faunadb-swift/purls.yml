@@ -1,0 +1,5 @@
+- pkg:swift/github.com/fauna/faunadb-swift@0.1.0
+- pkg:swift/github.com/fauna/faunadb-swift@0.1.1
+- pkg:swift/github.com/fauna/faunadb-swift@1.0.0
+- pkg:swift/github.com/fauna/faunadb-swift@2.0.0
+- pkg:swift/github.com/fauna/faunadb-swift@2.0.0%5E%7B%7D
