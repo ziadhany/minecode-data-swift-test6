@@ -1,0 +1,5 @@
+- pkg:swift/github.com/coopercorona/voronoi@1.0.0
+- pkg:swift/github.com/coopercorona/voronoi@1.0.1
+- pkg:swift/github.com/coopercorona/voronoi@1.0.2
+- pkg:swift/github.com/coopercorona/voronoi@1.0.2%40swift-4.1
+- pkg:swift/github.com/coopercorona/voronoi@2.0.0

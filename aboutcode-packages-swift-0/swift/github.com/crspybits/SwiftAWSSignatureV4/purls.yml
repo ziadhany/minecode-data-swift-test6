@@ -1,0 +1,14 @@
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.0.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.1.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.1.1
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.1.2
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.2.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@0.2.1
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.0.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.1.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.1.0%5E%7B%7D
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.2.0
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.2.0%5E%7B%7D
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.2.1
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@1.2.1%5E%7B%7D
+- pkg:swift/github.com/crspybits/SwiftAWSSignatureV4@2.0.0
