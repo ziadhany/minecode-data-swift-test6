@@ -1,0 +1,15 @@
+- pkg:swift/github.com/elegantchaos/Datastore@complex-identifiers
+- pkg:swift/github.com/elegantchaos/Datastore@complex-identifiers%5E%7B%7D
+- pkg:swift/github.com/elegantchaos/Datastore@v1.0.0
+- pkg:swift/github.com/elegantchaos/Datastore@v1.0.1
+- pkg:swift/github.com/elegantchaos/Datastore@v1.0.2
+- pkg:swift/github.com/elegantchaos/Datastore@v1.0.3
+- pkg:swift/github.com/elegantchaos/Datastore@v1.0.4
+- pkg:swift/github.com/elegantchaos/Datastore@v1.1.0
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.0
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.1
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.2
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.3
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.3%5E%7B%7D
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.4
+- pkg:swift/github.com/elegantchaos/Datastore@v1.2.4%5E%7B%7D
