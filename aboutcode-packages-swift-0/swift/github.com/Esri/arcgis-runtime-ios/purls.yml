@@ -1,0 +1,17 @@
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.10.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.11.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.11.1
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.11.2
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.12.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.13.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.13.1
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.13.2
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.14.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.14.1
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.0
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.1
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.2
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.3
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.4
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.5
+- pkg:swift/github.com/Esri/arcgis-runtime-ios@100.15.6

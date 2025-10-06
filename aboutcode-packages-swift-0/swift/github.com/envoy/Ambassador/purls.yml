@@ -1,0 +1,15 @@
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-1
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-1%5E%7B%7D
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-2
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-2%5E%7B%7D
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-3
+- pkg:swift/github.com/envoy/Ambassador@v0.0.1-alpha-3%5E%7B%7D
+- pkg:swift/github.com/envoy/Ambassador@v3.0.0
+- pkg:swift/github.com/envoy/Ambassador@v3.0.0%5E%7B%7D
+- pkg:swift/github.com/envoy/Ambassador@v4.0.0
+- pkg:swift/github.com/envoy/Ambassador@v4.0.0%5E%7B%7D
+- pkg:swift/github.com/envoy/Ambassador@v4.0.1
+- pkg:swift/github.com/envoy/Ambassador@v4.0.2
+- pkg:swift/github.com/envoy/Ambassador@v4.0.3
+- pkg:swift/github.com/envoy/Ambassador@v4.0.4
+- pkg:swift/github.com/envoy/Ambassador@v4.0.5
