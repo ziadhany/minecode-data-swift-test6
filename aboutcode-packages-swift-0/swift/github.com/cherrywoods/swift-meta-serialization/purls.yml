@@ -1,0 +1,8 @@
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v0.1.0
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v1.0
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.0
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.0%5E%7B%7D
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.0.1
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.1.0
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.2.0
+- pkg:swift/github.com/cherrywoods/swift-meta-serialization@v2.3.0
