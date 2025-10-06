@@ -1,0 +1,9 @@
+- pkg:swift/github.com/Apodini/swift-log-elk@0.1
+- pkg:swift/github.com/Apodini/swift-log-elk@0.1.0
+- pkg:swift/github.com/Apodini/swift-log-elk@0.1.1
+- pkg:swift/github.com/Apodini/swift-log-elk@0.2
+- pkg:swift/github.com/Apodini/swift-log-elk@0.2.0
+- pkg:swift/github.com/Apodini/swift-log-elk@0.2.1
+- pkg:swift/github.com/Apodini/swift-log-elk@0.2.2
+- pkg:swift/github.com/Apodini/swift-log-elk@v0.1
+- pkg:swift/github.com/Apodini/swift-log-elk@v0.1-alpha

@@ -1,0 +1,8 @@
+- pkg:swift/github.com/apache/spark-connect-swift@0.2.0
+- pkg:swift/github.com/apache/spark-connect-swift@0.2.0-rc.1
+- pkg:swift/github.com/apache/spark-connect-swift@0.3.0
+- pkg:swift/github.com/apache/spark-connect-swift@0.3.0-rc.1
+- pkg:swift/github.com/apache/spark-connect-swift@0.4.0
+- pkg:swift/github.com/apache/spark-connect-swift@0.4.0-rc.1
+- pkg:swift/github.com/apache/spark-connect-swift@v0.1.0
+- pkg:swift/github.com/apache/spark-connect-swift@v0.1.0-rc1

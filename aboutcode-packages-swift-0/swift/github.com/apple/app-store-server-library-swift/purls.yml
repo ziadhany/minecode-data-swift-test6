@@ -1,0 +1,12 @@
+- pkg:swift/github.com/apple/app-store-server-library-swift@0.1.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@0.1.0-b
+- pkg:swift/github.com/apple/app-store-server-library-swift@v1.0.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v1.0.1
+- pkg:swift/github.com/apple/app-store-server-library-swift@v1.0.2
+- pkg:swift/github.com/apple/app-store-server-library-swift@v1.1.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v2.0.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v2.1.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v2.2.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v2.3.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v3.0.0
+- pkg:swift/github.com/apple/app-store-server-library-swift@v3.1.0
