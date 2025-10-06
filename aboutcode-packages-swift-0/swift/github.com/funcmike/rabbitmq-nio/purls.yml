@@ -1,0 +1,6 @@
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-alpha
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-alpha%5E%7B%7D
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-beta1
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-beta2
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-beta3
+- pkg:swift/github.com/funcmike/rabbitmq-nio@v0.1.0-beta4
