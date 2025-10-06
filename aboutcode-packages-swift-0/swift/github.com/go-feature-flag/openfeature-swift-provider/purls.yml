@@ -1,0 +1,7 @@
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v.0.1.0-beta.2
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.1.0
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.1.0-beta.1
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.1.1
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.2.0
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.3.0
+- pkg:swift/github.com/go-feature-flag/openfeature-swift-provider@v0.4.0

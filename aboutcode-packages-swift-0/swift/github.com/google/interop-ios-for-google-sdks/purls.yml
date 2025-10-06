@@ -1,0 +1,8 @@
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@100.0.0
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@100.0.0%5E%7B%7D
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@101.0.0
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@CocoaPods-100.0.0
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@CocoaPods-100.0.0%5E%7B%7D
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@CocoaPods-100.1.0
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@CocoaPods-100.1.0%5E%7B%7D
+- pkg:swift/github.com/google/interop-ios-for-google-sdks@CocoaPods-101.0.0

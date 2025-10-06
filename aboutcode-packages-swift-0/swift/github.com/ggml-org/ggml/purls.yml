@@ -1,0 +1,6 @@
+- pkg:swift/github.com/ggml-org/ggml@v0.9.1
+- pkg:swift/github.com/ggml-org/ggml@v0.9.1%5E%7B%7D
+- pkg:swift/github.com/ggml-org/ggml@v0.9.3
+- pkg:swift/github.com/ggml-org/ggml@v0.9.3%5E%7B%7D
+- pkg:swift/github.com/ggml-org/ggml@v0.9.4
+- pkg:swift/github.com/ggml-org/ggml@v0.9.4%5E%7B%7D
