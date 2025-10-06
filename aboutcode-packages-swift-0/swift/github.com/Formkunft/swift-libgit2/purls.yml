@@ -1,0 +1,5 @@
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.8.0
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.8.1
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.0
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.0-fix
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.0-securetransport
