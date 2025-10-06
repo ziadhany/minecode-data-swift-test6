@@ -1,0 +1,3 @@
+- pkg:swift/github.com/armadsen/mypackage@1.0.0
+- pkg:swift/github.com/armadsen/mypackage@2.0.0
+- pkg:swift/github.com/armadsen/mypackage@2.0.1

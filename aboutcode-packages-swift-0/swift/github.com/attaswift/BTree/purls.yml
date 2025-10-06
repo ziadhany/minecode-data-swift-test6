@@ -1,0 +1,11 @@
+- pkg:swift/github.com/attaswift/BTree@v1.0.0
+- pkg:swift/github.com/attaswift/BTree@v1.1.0
+- pkg:swift/github.com/attaswift/BTree@v2.0.0
+- pkg:swift/github.com/attaswift/BTree@v2.1.0
+- pkg:swift/github.com/attaswift/BTree@v3.0.0
+- pkg:swift/github.com/attaswift/BTree@v3.0.0-rc.1
+- pkg:swift/github.com/attaswift/BTree@v3.1.0
+- pkg:swift/github.com/attaswift/BTree@v4.0.0
+- pkg:swift/github.com/attaswift/BTree@v4.0.1
+- pkg:swift/github.com/attaswift/BTree@v4.0.2
+- pkg:swift/github.com/attaswift/BTree@v4.1.0
