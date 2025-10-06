@@ -1,0 +1,9 @@
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.0
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.1
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.2
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.3
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.4
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.4%5E%7B%7D
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.5
+- pkg:swift/github.com/galtsoft/kitura-manager@0.0.5%5E%7B%7D
+- pkg:swift/github.com/galtsoft/kitura-manager@1.0.0
