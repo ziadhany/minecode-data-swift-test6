@@ -1,0 +1,5 @@
+- pkg:swift/github.com/bouke/hkdf@1.0.0
+- pkg:swift/github.com/bouke/hkdf@2.0.0
+- pkg:swift/github.com/bouke/hkdf@3.0.0
+- pkg:swift/github.com/bouke/hkdf@3.0.1
+- pkg:swift/github.com/bouke/hkdf@3.1.0
